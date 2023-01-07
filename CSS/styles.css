@@ -1,0 +1,16 @@
+body{
+         background-color:rgba(195, 200, 202, 0.736);
+    }
+ hr{
+        border-style: ridge;
+        border-top-style:double;
+        border-color:rgb(232, 181, 110);
+        width:80%;
+        height: 2px;
+    }
+h1{
+    color: rgb(10, 146, 161);
+} 
+h2{
+    color:darkslategray;
+}
